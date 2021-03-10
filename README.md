@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://i.imgur.com/xEeYnRO.png" align="center" style="width: 100%" />
-</div>  
-
+</div>
 
 ### <div align="center">Hi there 👋, My name is James. I'm a full-time full-stack freelance developer 👨‍💻 working remotely since 2017 🚀</div>
 
@@ -84,8 +83,7 @@
 <a href="https://linkedin.com/in/jamesfowlerdev" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br/>
 
@@ -95,26 +93,13 @@
 
 <br/>
 
-## Recent Blog Posts
-
-### TITLE
-
-<!-- BLOG-POST-LIST:START -->
-
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.
-
-<!-- BLOG-POST-LIST:END -->
-
-<br/>
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
+ <!-- ADD PROJECTS HERE!!!! -->
 
 <br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AlliDoisCode1234&&style=flat-square" align="center" />
-</div>  
-
+</div>
 
 <br/>
 
@@ -122,7 +107,6 @@ If things goes well, this section should automatically be replaced by a list of 
 
 ---
 
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <!-- ### My Projects
 
 <article>
