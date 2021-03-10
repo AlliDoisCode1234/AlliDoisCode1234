@@ -1,4 +1,4 @@
-![](https://i.imgur.com/M5m4XMs.png)
+![](https://imgur.com/OVemBbL)
 
 ### Hi there 👋, My name is James
 
