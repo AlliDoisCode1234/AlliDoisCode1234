@@ -90,7 +90,7 @@
 ## Github Stats
 
 <p align='center'>
- <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=allidoiscode1234&theme=bear&hide_border=true&currStreakNum=21DD00 alt="allidoiscode1234 github statistics" />
+ <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=allidoiscode1234&theme=vue&hide_border=true&currStreakNum=21DD00 alt="allidoiscode1234 github statistics" />
 </p>
 
 
