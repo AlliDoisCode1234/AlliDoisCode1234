@@ -89,7 +89,6 @@
 
 ## Github Stats
 
-<div></div>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=allidoiscode1234&theme=black-ice&hide_border=true&currStreakNum=21DD00)](https://git.io/streak-stats)
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlliDoisCode1234&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
