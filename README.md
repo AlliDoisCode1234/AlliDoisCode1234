@@ -4,13 +4,13 @@
 
 ### <div align="center">Hi there 👋, My name is James. I'm a full-time full-stack freelance developer 👨‍💻 working remotely since 2017 🚀</div>
 
-- 📝 I'm knowledgeable in HTML, CSS, Javascript, Node.Js, MongoDB, and React.
+- 📝 I'm knowledgeable in HTML, CSS, Javascript, Node.Js, and React.
 
-- 🌱 I will elevate your current projects to measurable results beyond expectation
+- 🌱 Just got Married <6.27.21 />
 
-- 🔭 I’m currently working on Freelance Client Work
+- 🔭 I’m currently working on Contract Work
 
-- ⚡ Fun fact: I wear short sleeve shirts under long sleeve shirts under short sleeve shirts
+- ⚡ Fun fact: Just saw my first shooting star
 
 <br/>
 
