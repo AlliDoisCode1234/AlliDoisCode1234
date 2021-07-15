@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/xEeYnRO.png" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">Hi there 👋, My name is James. I'm a full-time full-stack freelance developer 👨‍💻 working remotely since 2017 🚀</div>
+### <div align="center">Hi there 👋, My name is James. I'm a full-time full-stack developer 👨‍💻 working remotely since 2017 🚀</div>
 
 - 📝 I'm knowledgeable in HTML, CSS, Javascript, Node.Js, and React.
 
