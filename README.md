@@ -8,7 +8,7 @@
 
 - 🌱 Just got Married <6.27.21 />
 
-- 🔭 I’m currently working on Contract Work
+- 🔭 I’m currently learning Rust.
 
 - ⚡ Fun fact: Just saw my first shooting star
 
